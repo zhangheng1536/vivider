@@ -1,2 +1,0 @@
-# vivider
-just first poj
